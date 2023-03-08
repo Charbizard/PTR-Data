@@ -2255,9 +2255,9 @@
     },
     {
         "name":"Beautiful Ballet Rank 2",
-        "effect":"Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 2: Lovely Kiss, Mean Look",
+        "effect":"Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 2: Lovely Kiss, Mean Look",
         "prerequisites":"Expert Intuition",
-        "frequency":"X AP - Special",
+        "frequency":"1 AP - Special",
         "tags":"[Ranked 2]"
     },
     {
@@ -4264,9 +4264,9 @@
     },
     {
         "name":"Beautiful Ballet Rank 1",
-        "effect":"Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves. X is the Rank of the chosen Move.\\nRank 1: Captivate, Mist",
+        "effect":"Your Pokémon with at least 3d6 in their Beauty Stat from Poffins may activate Beautiful Ballet as a Standard Action to perform one of the following Moves. They must still follow frequency limits as usual for these Moves.\\nRank 1: Captivate, Mist",
         "prerequisites":"Style Expert, Beauty as Chosen Stat, Novice Intuition",
-        "frequency":"X AP - Special",
+        "frequency":"1 AP - Special",
         "tags":"[Ranked 2]"
     },
     {
